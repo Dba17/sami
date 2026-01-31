@@ -1,0 +1,34 @@
+for own repository
+
+work flow 
+    -colone repository to your local computer
+       edit coloned one
+    -commit the change in your local computer
+    -push the final modfied version from your    local computer to github
+
+the step on Terminal
+git clone URL
+   edit the coloned one
+git status 
+git add .  or  git add filename.ext
+git commit -m "your message"
+git push
+
+if you are pushing it for the first time
+-use git push -u origin main
+
+
+
+if the project is created by others
+-fork the project(copy to ur repository)
+-send pull request
+
+
+work flow
+    fork the project to your github
+       then colone it 
+           edit coloned one
+        commit the change
+        push it to ur github
+    send pull request
+        means I did this one/I modified this one from your project check it and merge it if it is correct
